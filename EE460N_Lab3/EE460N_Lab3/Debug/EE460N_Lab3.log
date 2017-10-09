@@ -1,3 +1,4 @@
 ﻿  lc3bsim3.c
+c:\users\ashkan\desktop\ee460n_lab3\ee460n_lab3\ee460n_lab3\lc3bsim3.c(679): warning C4101: 'SR2MUX_VALUE': unreferenced local variable
   EE460N_Lab3.vcxproj -> C:\Users\Ashkan\Desktop\EE460N_Lab3\EE460N_Lab3\Debug\EE460N_Lab3.exe
   EE460N_Lab3.vcxproj -> C:\Users\Ashkan\Desktop\EE460N_Lab3\EE460N_Lab3\Debug\EE460N_Lab3.pdb (Partial PDB)
